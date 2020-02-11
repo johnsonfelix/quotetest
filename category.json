@@ -21,7 +21,7 @@
     },
     {
       "category": "Justice",
-      "categoryShow": "சமுகநீதி",
+      "categoryShow": "த்ரில்லர்",
       "categoryId": 4
     },
     {
@@ -32,11 +32,26 @@
     {
       "category": "Children",
       "categoryShow": "சுட்டி கதைகள்",
-      "categoryId": 5
+      "categoryId": 6
     },
     {
       "category": "Fun",
       "categoryShow": "நகைச்சுவை",
-      "categoryId": 5
+      "categoryId": 7
+    },
+    {
+      "category": "Justice",
+      "categoryShow": "சிறப்பு கதை",
+      "categoryId": 8
+    },
+    {
+      "category": "Single Page",
+      "categoryShow": "சரித்திர கதை",
+      "categoryId": 9
+    },
+    {
+      "category": "Children",
+      "categoryShow": "சமுகநீதி",
+      "categoryId": 10
     }
   ]
