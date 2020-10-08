@@ -1,57 +1,112 @@
 [
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/17.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/1.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/2.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/3.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/4.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/5.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/6.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/7.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/8.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/9.jpg",
-      "categoryId": 1
-    },
-    {
-      "category": "general",
-      "url": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/10.jpg",
-      "categoryId": 1
-    }
+  {
+    "category": [
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/1.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/2.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/3.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/4.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/5.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/6.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/7.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/8.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/9.jpśg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/10.jpg"
+      },
+    ]
+  },
+  {
+    "category": [
+      {
+        "title": "Impossible",
+        "genre": "amoled",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/3.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "amoled",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/4.jpg"
+      },
+    ]
+  },
+  {
+    "category": [
+      {
+        "title": "Impossible",
+        "genre": "double",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/5.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "double",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/6.jpg"
+      },
+    ]
+  },
+  {
+    "category": [
+      {
+        "title": "Impossible",
+        "genre": "superhero",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/7.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "superhero",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/8.jpg"
+      },
+    ]
+  },
+  {
+    "category": [
+      {
+        "title": "Impossible",
+        "genre": "dark",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/9.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "dark",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/10.jpg"
+      },
+    ]
+  }
 ]
