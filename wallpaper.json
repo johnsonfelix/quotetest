@@ -50,7 +50,7 @@
         "title": "Impossible",
         "genre": "genral",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/10.jpg"
-      },
+      }
     ]
   },
   {
@@ -64,7 +64,7 @@
         "title": "Impossible",
         "genre": "amoled",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/4.jpg"
-      },
+      }
     ]
   },
   {
@@ -78,7 +78,7 @@
         "title": "Impossible",
         "genre": "double",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/6.jpg"
-      },
+      }
     ]
   },
   {
@@ -92,7 +92,7 @@
         "title": "Impossible",
         "genre": "superhero",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/8.jpg"
-      },
+      }
     ]
   },
   {
@@ -106,7 +106,7 @@
         "title": "Impossible",
         "genre": "dark",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/10.jpg"
-      },
+      }
     ]
   }
 ]
