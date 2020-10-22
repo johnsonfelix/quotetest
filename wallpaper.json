@@ -126,6 +126,12 @@
         "genre": "genral",
         "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/21.jpg",
         "thumbUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/factPhotos/21.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
+        "url":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/22.jpg",
+        "thumbUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/factPhotos/22.jpg"
       }
     ]
   },
