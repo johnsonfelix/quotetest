@@ -4,8 +4,8 @@
       {
         "title": "Impossible",
         "genre": "genral",
-        "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/24.gif",
-        "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/24.gif"
+        "urlLock":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/24.gif",
+        "urlHome": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/24.gif"
       },
       {
         "title": "Impossible",
