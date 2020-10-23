@@ -4,6 +4,12 @@
       {
         "title": "Impossible",
         "genre": "genral",
+        "urlLock":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/22.jpg",
+        "urlHome": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/23.jpg"
+      },
+      {
+        "title": "Impossible",
+        "genre": "genral",
         "urlLock":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/22.jpg",
         "urlHome": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/22.jpg"
       },
