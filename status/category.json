@@ -1,98 +1,82 @@
 [
   {
-    "language": "Love",
-    "languageShow": "Love",
-    "languageId": 1,
+    "category": "Love",
+    "categoryId": 1,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Funny",
-    "languageShow": "Funny",
-    "languageId": 2,
+    "category": "Funny",
+    "categoryId": 2,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Sad",
-    "languageShow": "Sad",
-    "languageId": 3,
+    "category": "Sad",
+    "categoryId": 3,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "90's",
-    "languageShow": "90's",
-    "languageId": 4,
+    "category": "90's",
+    "categoryId": 4,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Amma",
-    "languageShow": "Amma",
-    "languageId": 5,
+    "category": "Amma",
+    "categoryId": 5,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "ARR",
-    "languageShow": "ARR",
-    "languageId": 6,
+    "category": "ARR",
+    "categoryId": 6,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "English",
-    "languageShow": "English",
-    "languageId": 7,
+    "category": "English",
+    "categoryId": 7,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Evergreen",
-    "languageShow": "Evergreen",
-    "languageId": 8,
+    "category": "Evergreen",
+    "categoryId": 8,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "FullScreen",
-    "languageShow": "FullScreen",
-    "languageId": 9,
+    "category": "FullScreen",
+    "categoryId": 9,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Nanbargal Koottam",
-    "languageShow": "Nanbargal Koottam",
-    "languageId": 10,
+    "category": "Nanbargal Koottam",
+    "categoryId": 10,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "ThalaThalapathy",
-    "languageShow": "ThalaThalapathy",
-    "languageId": 11,
+    "category": "ThalaThalapathy",
+    "categoryId": 11,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Yuvan",
-    "languageShow": "Yuvan",
-    "languageId": 12,
+    "category": "Yuvan",
+    "categoryId": 12,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Nature",
-    "languageShow": "Nature",
-    "languageId": 13,
+    "category": "Nature",
+    "categoryId": 13,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Cars And Bikes",
-    "languageShow": "Cars And Bikes",
-    "languageId": 14,
+    "category": "Cars And Bikes",
+    "categoryId": 14,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Food",
-    "languageShow": "Food",
-    "languageId": 15,
+    "category": "Food",
+    "categoryId": 15,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   },
   {
-    "language": "Others",
-    "languageShow": "Others",
-    "languageId": 16,
+    "category": "Others",
+    "categoryId": 16,
     "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockThree/1.jpg"
   }
 ]
