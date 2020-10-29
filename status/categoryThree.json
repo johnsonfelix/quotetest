@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Love",
+    "categoryId": 1,
+    "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockTwo/1.jpg"
+  },
+  {
+    "category": "Funny",
+    "categoryId": 2,
+    "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockTwo/2.jpg"
+  },
+  {
+    "category": "Sad",
+    "categoryId": 3,
+    "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockTwo/3.jpg"
+  },
+  {
+    "category": "90's",
+    "categoryId": 4,
+    "catUrl": "https://teamwokk.in/TamilLoveVideoStatus/Images/blockTwo/4.jpg"
+  }
+  ]
