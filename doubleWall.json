@@ -7,6 +7,48 @@
         "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/1a.jpg",
         "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/1.jpg"
       },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/2a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/2.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/2a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/2.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/3a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/3.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/3a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/3.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/4a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/4.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/4a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/4.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/5a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/5.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/5a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/5.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/6a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/6.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/6a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/6.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/7a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/7.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/7a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/7.jpg"
+      },
+      {
+        "thumbLock":"http://felterlab.co.in/apps/doubleWallpaper/double/thumb/8a.jpg",
+        "thumbHome": "http://felterlab.co.in/apps/doubleWallpaper/double/thumb/8.jpg",
+        "lockUrl":"http://felterlab.co.in/apps/doubleWallpaper/double/8a.jpg",
+        "homeUrl": "http://felterlab.co.in/apps/doubleWallpaper/double/8.jpg"
+      }
     ]
   }
 ]
