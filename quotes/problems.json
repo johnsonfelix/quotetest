@@ -2,65 +2,65 @@
   {
     "gender": [
       {
-        "problem": "Career",
+        "problem": "Career"
       },
       {
-        "problem": "Love",
+        "problem": "Love"
       },
       {
-        "problem": "Job",
+        "problem": "Job"
       },
       {
-        "problem": "Stress",
+        "problem": "Stress"
       },
       {
-        "problem": "Depression",
+        "problem": "Depression"
       },
       {
-        "problem": "Ill",
+        "problem": "Ill"
       },
       {
-        "problem": "Failure",
+        "problem": "Failure"
       },
       {
-        "problem": "inferiority ",
+        "problem": "inferiority "
       },
       {
-        "problem": "Coward ",
+        "problem": "Coward"
       }
     ]
   },
   {
     "gender": [
       {
-        "problem": "Career",
+        "problem": "Career"
       },
       {
-        "problem": "Love",
+        "problem": "Love"
       },
       {
-        "problem": "Job",
+        "problem": "Job"
       },
       {
-        "problem": "Stress",
+        "problem": "Stress"
       },
       {
-        "problem": "Depression",
+        "problem": "Depression"
       },
       {
-        "problem": "Ill",
+        "problem": "Ill"
       },
       {
-        "problem": "Failure",
+        "problem": "Failure"
       },
       {
-        "problem": "Impossible",
+        "problem": "Impossible"
       },
       {
-        "problem": "inferiority",
+        "problem": "inferiority"
       },
       {
-        "problem": "Coward ",
+        "problem": "Coward"
       }
     ]
   }
