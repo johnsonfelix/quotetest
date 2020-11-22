@@ -1,0 +1,67 @@
+[ 
+  {
+    "gender": [
+      {
+        "problem": "Career",
+      },
+      {
+        "problem": "Love",
+      },
+      {
+        "problem": "Job",
+      },
+      {
+        "problem": "Stress",
+      },
+      {
+        "problem": "Depression",
+      },
+      {
+        "problem": "Ill",
+      },
+      {
+        "problem": "Failure",
+      },
+      {
+        "problem": "inferiority ",
+      },
+      {
+        "problem": "Coward ",
+      }
+    ]
+  },
+  {
+    "gender": [
+      {
+        "problem": "Career",
+      },
+      {
+        "problem": "Love",
+      },
+      {
+        "problem": "Job",
+      },
+      {
+        "problem": "Stress",
+      },
+      {
+        "problem": "Depression",
+      },
+      {
+        "problem": "Ill",
+      },
+      {
+        "problem": "Failure",
+      },
+      {
+        "problem": "Impossible",
+      },
+      {
+        "problem": "inferiority",
+      },
+      {
+        "problem": "Coward ",
+      }
+    ]
+  }
+]
