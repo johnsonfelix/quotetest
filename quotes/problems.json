@@ -70,11 +70,11 @@
         "categoryId": 7
       },
       {
-        "problem": "Impossible",
+        "problem": "inferiority",
         "categoryId": 8
       },
       {
-        "problem": "inferiority",
+        "problem": "Studies",
         "categoryId": 9
       },
       {
@@ -82,7 +82,7 @@
         "categoryId": 10
       },
       {
-        "problem": "Studies",
+        "problem": "Impossible",
         "categoryId": 11
       }
     ]
