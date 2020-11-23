@@ -2,68 +2,88 @@
   {
     "gender": [
       {
-        "problem": "Career"
+        "problem": "Career",
+        "categoryId": 1
       },
       {
-        "problem": "Love"
+        "problem": "Love",
+        "categoryId": 2
       },
       {
-        "problem": "Job"
+        "problem": "Job",
+        "categoryId": 3
       },
       {
-        "problem": "Stress"
+        "problem": "Stress",
+        "categoryId": 41
       },
       {
-        "problem": "Depression"
+        "problem": "Depression",
+        "categoryId": 5
       },
       {
-        "problem": "Ill"
+        "problem": "Ill",
+        "categoryId": 6
       },
       {
-        "problem": "Failure"
+        "problem": "Failure",
+        "categoryId": 7
       },
       {
-        "problem": "inferiority "
+        "problem": "inferiority ",
+        "categoryId": 8
       },
       {
-        "problem": "Studies"
+        "problem": "Studies",
+        "categoryId": 9
       }
     ]
   },
   {
     "gender": [
       {
-        "problem": "Career"
+        "problem": "Career",
+        "categoryId": 1
       },
       {
-        "problem": "Love"
+        "problem": "Love",
+        "categoryId": 2
       },
       {
-        "problem": "Job"
+        "problem": "Job",
+        "categoryId": 3
       },
       {
-        "problem": "Stress"
+        "problem": "Stress",
+        "categoryId": 41
       },
       {
-        "problem": "Depression"
+        "problem": "Depression",
+        "categoryId": 5
       },
       {
-        "problem": "Ill"
+        "problem": "Ill",
+        "categoryId": 6
       },
       {
-        "problem": "Failure"
+        "problem": "Failure",
+        "categoryId": 7
       },
       {
-        "problem": "Impossible"
+        "problem": "Impossible",
+        "categoryId": 8
       },
       {
-        "problem": "inferiority"
+        "problem": "inferiority",
+        "categoryId": 9
       },
       {
-        "problem": "Coward"
+        "problem": "Coward",
+        "categoryId": 10
       },
       {
-        "problem": "Studies"
+        "problem": "Studies",
+        "categoryId": 11
       }
     ]
   }
