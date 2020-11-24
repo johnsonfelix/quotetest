@@ -1,6 +1,6 @@
 [
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger.",
         "gender": "career"
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger sec2.",
         "gender": "love"
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger. sec3",
         "gender": "career"
@@ -366,7 +366,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger. sec4",
         "gender": "career"
@@ -488,7 +488,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger. sec5",
         "gender": "career"
@@ -610,7 +610,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger. sec6",
         "gender": "career"
@@ -732,7 +732,7 @@
     ]
   },
   {
-    "motivation": [
+    "category": [
       {
         "quotes":"The hard days are what make you stronger. sec7",
         "gender": "career"
