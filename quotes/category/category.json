@@ -1,37 +1,37 @@
 [
     {
       "category": "Career",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/1.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/1.jpg",
       "categoryId": 1
     },
     {
       "category": "Love",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/2.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/2.jpg",
       "categoryId": 2
     },
     {
       "category": "Job",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/3.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/3.jpg",
       "categoryId": 3
     },
     {
       "category": "Stress",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/4.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/4.jpg",
       "categoryId": 4
     },
     {
       "category": "Depression",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/5.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/5.jpg",
       "categoryId": 5
     },
     {
       "category": "Ill",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/6.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/6.jpg",
       "categoryId": 6
     },
     {
       "category": "Failure",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/7.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/7.jpg",
       "categoryId": 7
     }
   ]
