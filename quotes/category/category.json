@@ -1,42 +1,37 @@
 [
     {
-      "category": "Alone",
+      "category": "Career",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/1.jpg",
       "categoryId": 1
     },
     {
-      "category": "Amoled",
+      "category": "Love",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/2.jpg",
       "categoryId": 2
     },
     {
-      "category": "Love",
+      "category": "Job",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/3.jpg",
       "categoryId": 3
     },
     {
-      "category": "Superhero",
+      "category": "Stress",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/4.jpg",
       "categoryId": 4
     },
     {
-      "category": "Quote",
+      "category": "Depression",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/5.jpg",
       "categoryId": 5
     },
     {
-      "category": "Art",
+      "category": "Ill",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/6.jpg",
       "categoryId": 6
     },
     {
-      "category": "Animals",
+      "category": "Failure",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/7.jpg",
       "categoryId": 7
-    },
-    {
-      "category": "Birds",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/8.jpg",
-      "categoryId": 8
     }
   ]
