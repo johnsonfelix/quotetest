@@ -1,26 +1,26 @@
 [
     {
-      "category": "Alone",
+      "category": "Love",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/1.jpg",
       "categoryId": 1
     },
     {
-      "category": "Amoled",
+      "category": "Cute",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/2.jpg",
       "categoryId": 2
     },
     {
-      "category": "Love",
+      "category": "Animal",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/3.jpg",
       "categoryId": 3
     },
     {
-      "category": "Superhero",
+      "category": "Quote",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/4.jpg",
       "categoryId": 4
     },
     {
-      "category": "Quote",
+      "category": "Birds",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/5.jpg",
       "categoryId": 5
     },
@@ -30,7 +30,7 @@
       "categoryId": 6
     },
     {
-      "category": "Animals",
+      "category": "Art",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/7.jpg",
       "categoryId": 7
     },
