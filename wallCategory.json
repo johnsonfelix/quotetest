@@ -1,42 +1,42 @@
 [
     {
       "category": "Love",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/1.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/1.jpg",
       "categoryId": 1
     },
     {
       "category": "Cute",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/2.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/2.jpg",
       "categoryId": 2
     },
     {
       "category": "Animal",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/3.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/3.jpg",
       "categoryId": 3
     },
     {
       "category": "Quote",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/4.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/4.jpg",
       "categoryId": 4
     },
     {
       "category": "Birds",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/5.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/5.jpg",
       "categoryId": 5
     },
     {
       "category": "Art",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/6.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/6.jpg",
       "categoryId": 6
     },
     {
       "category": "Art",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/7.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/7.jpg",
       "categoryId": 7
     },
     {
       "category": "Birds",
-      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/8.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/double/thumb/8.jpg",
       "categoryId": 8
     }
   ]
