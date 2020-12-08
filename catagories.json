@@ -50,6 +50,56 @@
             "category":"Birds",
             "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/10.jpg",
             "categoryId":10
+         },
+         {
+            "category":"Love",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/1.jpg",
+            "categoryId":1
+         },
+         {
+            "category":"Cute",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/2.jpg",
+            "categoryId":2
+         },
+         {
+            "category":"Animal",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/3.jpg",
+            "categoryId":3
+         },
+         {
+            "category":"Quote",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/4.jpg",
+            "categoryId":4
+         },
+         {
+            "category":"Birds",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/5.jpg",
+            "categoryId":5
+         },
+         {
+            "category":"Art",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/6.jpg",
+            "categoryId":6
+         },
+         {
+            "category":"Art",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/7.jpg",
+            "categoryId":7
+         },
+         {
+            "category":"Birds",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/8.jpg",
+            "categoryId":8
+         },
+         {
+            "category":"Birds",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/9.jpg",
+            "categoryId":9
+         },
+         {
+            "category":"Birds",
+            "catUrl":"https://raw.githubusercontent.com/johnsonfelix/quotetest/master/doubleWallpaper/categories/10.jpg",
+            "categoryId":10
          }
       ]
    }
