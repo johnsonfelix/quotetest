@@ -6,32 +6,32 @@
     },
     {
       "category": "Love",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/2.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 2
     },
     {
       "category": "Job",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/3.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 3
     },
     {
       "category": "Stress",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/4.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 4
     },
     {
       "category": "Depression",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/5.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 5
     },
     {
       "category": "Ill",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/6.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 6
     },
     {
       "category": "Failure",
-      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/7.jpg",
+      "catUrl": "https://raw.githubusercontent.com/johnsonfelix/quotetest/master/quotes/category/Career.jpeg",
       "categoryId": 7
     }
   ]
